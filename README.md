@@ -8,7 +8,7 @@ This a repository for 12 weeks AWS workshop challenge.
    
 
 
-# What is covered in 12 weeks
+# Topics covered in 12 Weeks
 
 The below details are covered in 12 weeks. For each week, we have a separate folder for easy navigation and follow. 
 
