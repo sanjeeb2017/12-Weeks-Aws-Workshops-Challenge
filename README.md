@@ -12,7 +12,7 @@ This a repository for 12 weeks AWS workshop challenge.
 
 The below details are covered in 12 weeks. For each week, we have a separate folder for easy navigation and follow. 
 
-** Note **
+**`Note:`**
 The below diagram is from the site - https://12weeksworkshops.com/. For the completeness, we have put it here.
 
 <img width="514" alt="image" src="https://github.com/sanjeeb2017/12-Weeks-Aws-Workshops-Challenge/assets/24868114/6463fd55-d029-40fe-8bbf-bc7bb71dc236">
