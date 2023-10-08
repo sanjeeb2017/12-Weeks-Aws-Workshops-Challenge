@@ -56,11 +56,11 @@ AWS stands for Amazon Web Service. AWS is the top public cloud service provider.
 
 Before we will understand the core services of AWS, couple of pre-requisites we have to complete.
 
-_**1. Create an AWS account**_
+_**`1.Create an AWS account`**_
 
  To explore AWS world, it is very important to create an AWS account. We are not going to cover how to create an AWS account as the process is very simple. To get the step by step proces, please have a look on the youtube video - https://www.youtube.com/watch?v=XhW17g73fvY.
 
-_**2. Create an IAM user**_
+_**`2.Create an IAM user`**_
 
 
 
