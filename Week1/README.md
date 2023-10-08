@@ -62,6 +62,11 @@ _**`Create an AWS account`**_
 
 _**`Create an IAM user`**_
 
+The IAM user (IAM stands for Identitya and Access Management)is the human user or workload who uses the IAM user to interact with services of AWS. A user in AWS consists of a name and credentials. When a user is created its account for the first time with details, the user is called as a root user. Once the root user is created, it is recommended to create another IAM User with administrative privilages. Root users are not used for day to day activities.
+
+Follow the below steps, to create an IAM user with administrative privilage.
+
+
 
 
 
