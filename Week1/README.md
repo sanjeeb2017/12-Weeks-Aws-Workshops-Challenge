@@ -19,7 +19,7 @@ For any new person who is interested to start the cloud journey, it is very impo
 
 Let's start the discussion.
 
-**`What is Cloud Computing:`**
+**`1.What is Cloud Computing:`**
 
 **Cloud Computing** is on demand delivery of computing services such as compute, storage, databases, networking, software, analytics, and intelligence over the Internet so called cloud.It helped organization to provision the infrastructure in quick time compare to traditional approach where it took months to build the infrastructure. It eliminates the need for enterprises to procure, configure, or manage resources themselves, and they only pay for what they use and zero or less administration on the infrastructure.
 
@@ -41,6 +41,15 @@ Private clouds are built, managed, and owned by a single organization and privat
 **`Hybrid Cloud:`**
 
 Hybrid clouds combine public and private cloud models, allowing companies to leverage public cloud services and maintain the security and compliance  capabilities commonly found in private cloud architectures.
+
+**`2.Benifits of Cloud Computing***
+
+1. Flexible and easy to use. User can access the environment any where from the world, just need the internet access.
+2. Pay as you go model. Pay what you have used. It is very cost effective. User can always spin up server with couple of clicks and start the developement of business usecase and start seeing the values quickly.
+3. Secure, cloud service providers are align with most of the compliance requirements, by saying that security is a shared responsibilty. 
+
+cloud has many advantage but we just listed some of them above.
+
 
 
 
