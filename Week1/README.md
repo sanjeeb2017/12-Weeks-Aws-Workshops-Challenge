@@ -1,4 +1,4 @@
-# WEEK -1 : Foundation - AWS Core Services Overview
+# WEEK -1 : Foundation - AWS Core Services
 
 Welcome to AWS Workshop challenge - Week1. For each week challenge, we will put details on the challenge overview, problem statement / solution approach  and conclusion/learning from the challenge.
 
