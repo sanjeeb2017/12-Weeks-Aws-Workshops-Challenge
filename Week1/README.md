@@ -50,6 +50,14 @@ Hybrid clouds combine public and private cloud models, allowing companies to lev
 
 cloud has many advantage but we just listed some of them above.
 
+**`3.What is AWS cloud:`**
+
+AWS stands for Amazon Web Service. AWS is the top public cloud service provider.Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster. The details on AWS can be found - https://aws.amazon.com/?nc2=h_lg
+
+Before we will understand the core services of AWS, it is very important to create an AWS account. We are not going to cover how to create an AWS account ( as it is very simple), however please find the youtube video ( link - https://www.youtube.com/watch?v=XhW17g73fvY) to get the step by step process.
+
+**`4.Core Services of AWS:`**
+
 
 
 
