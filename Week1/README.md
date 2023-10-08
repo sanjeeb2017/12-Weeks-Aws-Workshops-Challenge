@@ -42,7 +42,7 @@ Private clouds are built, managed, and owned by a single organization and privat
 
 Hybrid clouds combine public and private cloud models, allowing companies to leverage public cloud services and maintain the security and compliance  capabilities commonly found in private cloud architectures.
 
-**`2.Benifits of Cloud Computing***
+**`2.Benifits of Cloud Computing`**
 
 1. Flexible and easy to use. User can access the environment any where from the world, just need the internet access.
 2. Pay as you go model. Pay what you have used. It is very cost effective. User can always spin up server with couple of clicks and start the developement of business usecase and start seeing the values quickly.
