@@ -97,6 +97,8 @@ All the above steps are presented in the below screenshots for better understand
 
 <img width="508" alt="image" src="https://github.com/sanjeeb2017/12-Weeks-Aws-Workshops-Challenge/assets/24868114/eb9d48fd-f901-46a2-bb18-19401c95863f">
 
+<img width="539" alt="image" src="https://github.com/sanjeeb2017/12-Weeks-Aws-Workshops-Challenge/assets/24868114/ddc8a184-5b7f-478b-944a-97404ba4d799">
+
 <img width="622" alt="image" src="https://github.com/sanjeeb2017/12-Weeks-Aws-Workshops-Challenge/assets/24868114/141cef60-eeaa-4d91-80fc-a85301f9fb20">
 
 
